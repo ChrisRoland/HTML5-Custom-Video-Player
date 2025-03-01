@@ -1,1 +1,1 @@
-# HTML5-Custom-Video-Player
+# HTML5 Custom Video Player

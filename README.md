@@ -25,7 +25,7 @@ A functional custom video player built using HTML5, CSS, and JavaScript. This pr
 2. Open `index.html` in your browser to use the custom video player.
 
 ## Live Demo
-Check out the live demo here: [Live Demo Link](#) (Replace `#` with your deployed URL)
+Check out the [Live Demo here:](https://chrisroland.github.io/HTML5-Custom-Video-Player/)
 
 ## Contributions
 - Feel free to **open issues** for bugs or feature suggestions.
